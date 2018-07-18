@@ -1,0 +1,13 @@
+body{
+    background-image: url(photo.jpeg)
+}
+.title{
+    margin-top: 12%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 345%;
+}
+.page{
+    font-size: 245%;
+    font-family: 'Knewave', cursive;
+
+}
